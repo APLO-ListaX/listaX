@@ -1,2 +1,0 @@
-# listaX
-Lista X
